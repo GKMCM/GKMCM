@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Matrix Code Banner -->
+<!-- Matrix Code Banner - Slower Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=50&pause=0&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=60&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;11010010+10101100+01010111+11001010+00111001+10110100+01101101+11110010+00110101" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=200&pause=0&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=40&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100+00100000+01000111+01001011+01001101+01000011+01001101" />
 </p>
 
 <!-- Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=GKMCM&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=CODE%20ARCHITECT%20%7C%20AI%20RESEARCHER&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=header&text=GKMCM&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=55" />
 
 <!-- Glitch Typing Title -->
 <h1>
@@ -68,36 +68,34 @@ user@matrix:~$ ./initiate_connection.sh
   <img src="https://img.shields.io/badge/PyTorch-00ff41?style=for-the-badge&logo=pytorch&logoColor=0d0d0d" />
 </p>
 
-<!-- ASCII Art Separator -->
+<!-- Animated Binary Sphere Art -->
 <pre align="center">
-<code>
-╔═══════════════════════════════════════════════════════════════════════╗
-║  ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄       ║
-║ ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌      ║
-║ ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀       ║
-║ ▐░▌          ▐░▌       ▐░▌▐░▌               ▐░▌     ▐░▌                ║
-║ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄       ║
-║ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░░▌      ║
-║  ▀▀▀▀▀▀▀▀▀█░▌ ▀▀▀▀█░█▀▀▀▀  ▀▀▀▀▀▀▀▀▀█░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀▀▀       ║
-║           ▐░▌     ▐░▌               ▐░▌     ▐░▌     ▐░▌                ║
-║  ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌      ▄▄▄▄▄▄▄▄▄█░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄       ║
-║ ▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░░▌     ▐░▌     ▐░░░░░░░░░░░▌      ║
-║  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-</code>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=11&duration=300&pause=2000&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=200&lines=+++++++++++010101010101+++++++++++;++++++++01++++++++++10++++++++++;++++++01++%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97++10++++++++;+++++10++%E2%95%91+GKMCM++%E2%95%91++01+++++++++;++++01+++%E2%95%91+ELITE++%E2%95%91+++10++++++++;++++10+++%E2%95%91+CODER++%E2%95%91+++01++++++++;+++++01++%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D++10++++++++;++++++10++++++++++01++++++++++;+++++++++++101010101++++++++++" alt="Binary Sphere" />
 </pre>
+
+<!-- Binary Border -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=10&duration=300&pause=0&color=00D9FF&background=0D0D0D00&center=true&vCenter=true&repeat=true&width=1200&height=20&lines=01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101+01010101" />
+</p>
+
+<!-- Binary Border -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=10&duration=300&pause=0&color=00FF41&background=0D0D0D00&center=true&vCenter=true&repeat=true&width=1200&height=20&lines=10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010+10101010" />
+</p>
 
 <!-- GitHub Stats with Cyberpunk Theme -->
 <h2 align="center">⚡ SYSTEM METRICS ⚡</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GKMCM&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d9ff&text_color=00ff41" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GKMCM&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00d9ff&fire=b300ff&currStreakLabel=00ff41" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GKMCM&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00d9ff&text_color=00ff41" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GKMCM&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00d9ff&fire=b300ff&currStreakLabel=00ff41" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKMCM&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00d9ff" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKMCM&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00d9ff" alt="Top Languages" />
 </p>
+
+<!-- Alternative: If stats don't load, GitHub may need time to index your profile or the services might be temporarily down -->
 
 <!-- Activity Graph -->
 <p align="center">
@@ -114,11 +112,23 @@ user@matrix:~$ ./initiate_connection.sh
 <!-- Cyberpunk Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
+<!-- Binary Border -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=10&duration=300&pause=0&color=B300FF&background=0D0D0D00&center=true&vCenter=true&repeat=true&width=1200&height=20&lines=11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100+11001100" />
+</p>
+
 <!-- Trophy Display -->
 <h2 align="center">🏆 ACHIEVEMENT REGISTRY 🏆</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GKMCM&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GKMCM&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Note: Trophies may take time to load as GitHub indexes your profile activity -->
+
+<!-- Binary Border -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=10&duration=300&pause=0&color=00D9FF&background=0D0D0D00&center=true&vCenter=true&repeat=true&width=1200&height=20&lines=01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110+01100110" />
 </p>
 
 <!-- Terminal Footer -->
