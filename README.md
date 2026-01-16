@@ -10,7 +10,7 @@
 
 <!-- Glitch Typing Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=100&lines=%3E+SYSTEM+ARCHITECT;%3E+CODE+ARCHITECT;%3E+AI+RESEARCHER;%3E+FULL-STACK+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=100&lines=%3E+SYSTEM+ARCHITECT;%3E+CODE+ARCHITECT;%3E+AI+ENTHUSIAST;%3E+FULL-STACK+ENGINEER" alt="Typing SVG" />
 </h1>
 
 <!-- Cyberpunk Divider -->
