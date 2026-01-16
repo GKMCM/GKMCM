@@ -1,41 +1,16 @@
 <div align="center">
 
-<!-- Matrix Rain SVG Animation -->
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes fall {
-        to { transform: translateY(200px); opacity: 0; }
-      }
-      .matrix-text {
-        font-family: 'Courier New', monospace;
-        font-size: 14px;
-        fill: #00ff41;
-        opacity: 0.8;
-        animation: fall 3s linear infinite;
-      }
-      .matrix-text:nth-child(2n) { animation-delay: 0.3s; }
-      .matrix-text:nth-child(3n) { animation-delay: 0.6s; }
-      .matrix-text:nth-child(4n) { animation-delay: 0.9s; }
-      .matrix-text:nth-child(5n) { animation-delay: 1.2s; }
-    </style>
-  </defs>
-  <rect width="100%" height="200" fill="#0d0d0d"/>
-  <text class="matrix-text" x="5%" y="-10">01100111</text>
-  <text class="matrix-text" x="15%" y="-30">11010010</text>
-  <text class="matrix-text" x="25%" y="-50">00110101</text>
-  <text class="matrix-text" x="35%" y="-20">10101100</text>
-  <text class="matrix-text" x="45%" y="-40">01010111</text>
-  <text class="matrix-text" x="55%" y="-60">11001010</text>
-  <text class="matrix-text" x="65%" y="-25">00111001</text>
-  <text class="matrix-text" x="75%" y="-45">10110100</text>
-  <text class="matrix-text" x="85%" y="-15">01101101</text>
-  <text class="matrix-text" x="95%" y="-35">11110010</text>
-</svg>
+<!-- Matrix Code Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=50&pause=0&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=60&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;11010010+10101100+01010111+11001010+00111001+10110100+01101101+11110010+00110101" />
+</p>
 
-<!-- Glitch Title -->
+<!-- Cyberpunk Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=GKMCM&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=CODE%20ARCHITECT%20%7C%20AI%20RESEARCHER&descSize=20&descAlignY=55" />
+
+<!-- Glitch Typing Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=GKMCM;%3E+SYSTEM+ARCHITECT;%3E+CODE+ARCHITECT;%3E+AI+RESEARCHER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=100&lines=%3E+SYSTEM+ARCHITECT;%3E+CODE+ARCHITECT;%3E+AI+RESEARCHER;%3E+FULL-STACK+ENGINEER" alt="Typing SVG" />
 </h1>
 
 <!-- Cyberpunk Divider -->
