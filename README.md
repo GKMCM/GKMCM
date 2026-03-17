@@ -88,23 +88,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GKMCM&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GKMCM&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GKMCM&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </p>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKMCM&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
 
 <!-- Activity graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GKMCM&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" alt="Contribution Graph" />
 
----
-
-### Contributions
+<br/>
 
 <!-- Snake animation -->
 <picture>
@@ -112,11 +106,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GKMCM/GKMCM/output/github-contribution-grid-snake.svg">
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GKMCM/GKMCM/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
----
-
-<!-- Trophies - clean display -->
-<img src="https://github-profile-trophy.vercel.app/?username=GKMCM&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 ---
 
